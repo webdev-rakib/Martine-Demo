@@ -258,7 +258,6 @@ li{
 }
 .tab-active{
     position: absolute;
-    background-color: #e52222;
     width: 100%;
     left: 0;
     bottom: 0;
